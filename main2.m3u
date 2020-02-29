@@ -1,0 +1,618 @@
+#EXTM3U
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg",La 1 HD
+http://hlsliveamdgl7-lh.akamaihd.net/i/hlslive_1@583043/master.m3u8
+
+#EXTINF:0 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg",La 1 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=355&t=live&f=ts
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320",La 2
+http://hlsliveamdgl0-lh.akamaihd.net/i/hlslive_1@586367/master.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320",La 2 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=421&t=live&f=ts
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/CRTVG/picture?width=320&height=320",TVG
+http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/apuntmedia/picture?width=320&height=320",A Punt
+https://cflive-emea.live-delivery.ooyala.com/out/u/jb44pwd2tj7w5/111819/wyYXIxZTE6okZbyKLzxq8TXa4a-SQlAO/cs/d77d4356674b449695b1c0f19fbd6fae.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320",Antena 3
+https://livestartover-i.akamaized.net/antena3/bitrate_3.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320",Antena 3 HD
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=348&t=live&f=ts
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecinco
+https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/tele5/picture?width=320&height=320",Telecinco HD
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=374&t=live&f=ts
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320",La Sexta
+https://livestartover-i.akamaized.net/lasexta/master.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/laSexta/picture?width=320&height=320",La Sexta HD
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=356&t=live&f=ts
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320",Cuatro
+https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/cuatro/picture?width=320&height=320",Cuatro HD
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=351&t=live&f=ts
+
+#EXTINF:0 tvg-logo="http://graph.facebook.com/24htve/picture?width=320&height=320",TVE 24H
+https://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/0.png",#0
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=378&t=live&f=ts
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BEMAD.png",BeMad
+https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DMAXX.png",DMAX
+http://91.126.141.12:1935/live/discoverymax/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISCOVERYCHANNEL.png",Discovery
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=408&t=live&f=ts
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PARAMOUNTCHANNEL.png",PARAMOUNT CHANNEL
+http://paramount.live.flumotion.com/live/playlist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/BOING.png",BOING
+https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CLAN.png",CLAN
+http://app.powerfhd.me/live/sup.php?z=997&u=5h65v5B45Q54nWo&s=559565711475555&id=403&t=live&f=ts
+
+#EXTINF:0 ,Televigo
+http://5.189.181.203:1935/gcm4/gcm4/playlist.m3u8
+
+#EXTINF:0 tvg-id="Telemadrid.es" tvg-logo="https://pbs.twimg.com/profile_images/909535003226275840/2lRHyNr3_400x400.jpg" tvg-name="Telemadrid",Telemadrid
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Divinity.svg/627px-Divinity.svg.png" tvg-name="Divinity",Divinity
+http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/MEGA.png",MEGA
+https://livestartover.atresmedia.com/geomega/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NEOX.png",NEOX
+https://pull2b-i.akamaized.net/geoneox/bitrate_4.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NOVA.png",NOVA
+https://livestartover-i.akamaized.net/geonova/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/A3SERIES.png",ATRESERIES
+https://livestartover-i.akamaized.net/geoa3series/master.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/TELEDEPORTE.png",TELEDEPORTE
+http://sunatv.net:25461/jack0116y9/B2Uu3pE9v1/14965
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/GOL.png",GOL
+http://212.233.61.47:5577/play/a0dm
+
+#EXTINF:0 tvg-id="TVG2.es" tvg-logo="https://pbs.twimg.com/profile_images/697322750914867202/sT5s-mwR.jpg" tvg-name="TVG2.es",TVG2
+http://events3-crtvg.flumotion.com/crtvg/events3/chunks.m3u8
+
+#EXTINF:0 tvg-id="TVG2.es" tvg-logo="https://pbs.twimg.com/profile_images/697322750914867202/sT5s-mwR.jpg" tvg-name="TVG America",TVG America
+http://america-crtvg.flumotion.com/crtvg/america_high/chunks.m3u8
+
+#EXTINF:0 tvg-id="TV3cat.sp" tvg-logo="http://upload.wikimedia.org/wikipedia/ca/0/00/Tv3_logo2005.png" tvg-name="TV3",TV3 Cat
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3_web/playlist.m3u8
+
+#EXTINF:0 tvg-id="324.es" tvg-logo="https://pbs.twimg.com/profile_images/899577179746570240/l32eY1eN_400x400.jpg" tvg-name="324",324
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/chunklist_b548000.m3u8
+
+#EXTINF:0 tvg-id="ETBSat.es" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/03/Eitb_logo_2010.png/revision/latest?cb=20110830184944" tvg-name="EITB",EITB
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/master.m3u8
+
+#EXTINF:0 tvg-id="EPG N/A" tvg-logo="https://www.underconsideration.com/brandnew/archives/telemadrid_logo_la_otra.jpg" tvg-name="La Otra",La Otra
+http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8
+
+#EXTINF:0 tvg-id="France24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png" tvg-name="France24 EN",FRANCE 24
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP1.png",RTP 1
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp1_5ch5h264.stream/chunklist.m3u8
+
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTP2.png",RTP 2
+http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtp2_5ch3h264.stream/playlist.m3u8
+
+#EXTINF:0 tvg-id="RTP3.pt" tvg-logo="https://espalhafactos.com/wp-content/uploads/2016/03/rtp2_novo.png" tvg-name="RTP3",RTP3
+http://62.28.213.14:9981/stream/channelid/1434611461
+
+#EXTINF:0 ,RAI 4
+http://b2everyrai-lh.akamaihd.net/i/rai4_1@181951/master.m3u8
+
+#EXTINF:0  tvg-id="FranceFR24.fr" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/65/FRANCE_24_logo.svg/768px-FRANCE_24_logo.svg.png" tvg-name="France24 FR",France24 FR
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+
+#EXTINF:0  tvg-id="RTEspanol.es" tvg-logo="http://themoderatevoice.com/wp-content/uploads/2017/02/rt-logo-e1486479420421.png" tvg-name="RT Espanol",RT Espanol
+http://rt.api.visionip.tv/live/ASHTTP/RT_en_Espanol-MB/playlist.m3u8
+
+#EXTINF:0, Bloomberg TV Europe
+https://liveprodeuwest.global.ssl.fastly.net/btv/desktop/eu_live.m3u8
+
+#EXTINF:0  tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="RAINEWS24", RAI NEWS
+http://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
+
+#EXTINF:0, CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+
+#EXTINF:0, 13 TV
+http://streaming-fr02.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="MOVISTAR+ MARVEL 1 HD" tvg-logo="",MOVISTAR+ MARVEL 1 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26129&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR+ MARVEL 2 HD" tvg-logo="",MOVISTAR+ MARVEL 2 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26130&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR+ MARVEL 3 HD" tvg-logo="",MOVISTAR+ MARVEL 3 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26131&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR+ MARVEL 4 HD" tvg-logo="",MOVISTAR+ MARVEL 4 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26132&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR+ MARVEL 5 HD" tvg-logo="",MOVISTAR+ MARVEL 5 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26133&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 1" tvg-logo="",New Alquiler 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26143&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 2" tvg-logo="",New Alquiler 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26144&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 3" tvg-logo="",New Alquiler 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26145&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 4" tvg-logo="",New Alquiler 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26146&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 5" tvg-logo="",New Alquiler 5
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26147&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 6" tvg-logo="",New Alquiler 6
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26148&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 7" tvg-logo="",New Alquiler 7
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26149&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 8" tvg-logo="",New Alquiler 8
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26173&t=live&f=ts
+#EXTINF:-1 tvg-name="New Alquiler 9" tvg-logo="",New Alquiler 9
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26174&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas de Ciencia ficcion HD 1" tvg-logo="",Peliculas de Ciencia ficcion HD 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26134&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas de Ciencia ficcion HD 2 " tvg-logo="",Peliculas de Ciencia ficcion HD 2 
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26135&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas de Ciencia ficcion HD 3" tvg-logo="",Peliculas de Ciencia ficcion HD 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26136&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas de Ciencia ficcion HD 4" tvg-logo="",Peliculas de Ciencia ficcion HD 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26137&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas de Ciencia ficcion HD 5" tvg-logo="",Peliculas de Ciencia ficcion HD 5
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26138&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Action HD 1" tvg-logo="",Peliculas Action HD 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26114&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Action HD 2" tvg-logo="",Peliculas Action HD 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26115&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Action HD 3" tvg-logo="",Peliculas Action HD 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26116&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Action HD 4" tvg-logo="",Peliculas Action HD 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26117&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Action HD 5" tvg-logo="",Peliculas Action HD 5
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26118&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Action HD 6" tvg-logo="",Peliculas Action HD 6
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26119&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 1" tvg-logo="",Box  Office 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26104&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 2" tvg-logo="",Box  Office 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26105&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 3" tvg-logo="",Box  Office 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26106&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 4" tvg-logo="",Box  Office 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26107&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 5" tvg-logo="",Box  Office 5
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26108&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 6" tvg-logo="",Box  Office 6
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26109&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 7" tvg-logo="",Box  Office 7
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26110&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 8" tvg-logo="",Box  Office 8
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26111&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 9" tvg-logo="",Box  Office 9
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26112&t=live&f=ts
+#EXTINF:-1 tvg-name="Box  Office 10" tvg-logo="",Box  Office 10
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26113&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 1" tvg-logo="",Alquiler HD 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26094&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 2" tvg-logo="",Alquiler HD 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26095&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 3" tvg-logo="",Alquiler HD 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26096&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 4" tvg-logo="",Alquiler HD 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26097&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 5" tvg-logo="",Alquiler HD 5
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26098&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 6" tvg-logo="",Alquiler HD 6
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26099&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 7" tvg-logo="",Alquiler HD 7
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26100&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 8" tvg-logo="",Alquiler HD 8
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26101&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 9" tvg-logo="",Alquiler HD 9
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26102&t=live&f=ts
+#EXTINF:-1 tvg-name="Alquiler HD 10" tvg-logo="",Alquiler HD 10
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26103&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR CINE 1 HD" tvg-logo="",MOVISTAR CINE 1 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26088&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR  CINE 2 HD" tvg-logo="",MOVISTAR  CINE 2 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26089&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR  CINE 3 HD" tvg-logo="",MOVISTAR  CINE 3 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26090&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR  CINE 4 HD" tvg-logo="",MOVISTAR  CINE 4 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26091&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR  CINE 5 HD" tvg-logo="",MOVISTAR  CINE 5 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26092&t=live&f=ts
+#EXTINF:-1 tvg-name="MOVISTAR  CINE 6 HD" tvg-logo="",MOVISTAR  CINE 6 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26093&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Comedia HD 1" tvg-logo="",Peliculas Comedia HD 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26125&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Comedia HD 2" tvg-logo="",Peliculas Comedia HD 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26126&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Comedia HD 3" tvg-logo="",Peliculas Comedia HD 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26128&t=live&f=ts
+#EXTINF:-1 tvg-name="Peliculas Comedia HD 4" tvg-logo="",Peliculas Comedia HD 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26127&t=live&f=ts
+#EXTINF:-1 tvg-name="Cinelatino HD 1" tvg-logo="",Cinelatino HD 1
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26167&t=live&f=ts
+#EXTINF:-1 tvg-name="Cinelatino HD 2" tvg-logo="",Cinelatino HD 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26168&t=live&f=ts
+#EXTINF:-1 tvg-name="Cinelatino HD 3" tvg-logo="",Cinelatino HD 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26169&t=live&f=ts
+#EXTINF:-1 tvg-name="Cinelatino HD 4" tvg-logo="",Cinelatino HD 4
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26170&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 1 HD" tvg-logo="",LA 1 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=355&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 1 HEVC" tvg-logo="",LA 1 HEVC
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26087&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 1 FULL HD" tvg-logo="",LA 1 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3797&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 2 HD" tvg-logo="",LA 2 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=421&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 2 FULL HD" tvg-logo="",LA 2 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3846&t=live&f=ts
+#EXTINF:-1 tvg-name="ANTENA 3 HD" tvg-logo="",ANTENA 3 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=348&t=live&f=ts
+#EXTINF:-1 tvg-name="ANTENA 3 FULL HD" tvg-logo="",ANTENA 3 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3790&t=live&f=ts
+#EXTINF:-1 tvg-name="CUATRO HD" tvg-logo="",CUATRO HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=351&t=live&f=ts
+#EXTINF:-1 tvg-name="CUATRO FULL HD" tvg-logo="",CUATRO FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3793&t=live&f=ts
+#EXTINF:-1 tvg-name="TELECINCO HD" tvg-logo="",TELECINCO HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=374&t=live&f=ts
+#EXTINF:-1 tvg-name="TELECINCO FULL HD" tvg-logo="",TELECINCO FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3814&t=live&f=ts
+#EXTINF:-1 tvg-name="LA SEXTA HD" tvg-logo="",LA SEXTA HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=356&t=live&f=ts
+#EXTINF:-1 tvg-name="LA SEXTA FULL HD" tvg-logo="",LA SEXTA FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3798&t=live&f=ts
+#EXTINF:-1 tvg-name="#0 4K" tvg-logo="",#0 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26172&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 1 4K" tvg-logo="",LA 1 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26150&t=live&f=ts
+#EXTINF:-1 tvg-name="LA 2 4K" tvg-logo="",LA 2 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26151&t=live&f=ts
+#EXTINF:-1 tvg-name="ANTENA 3 4K" tvg-logo="",ANTENA 3 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26152&t=live&f=ts
+#EXTINF:-1 tvg-name="CUATRO 4K" tvg-logo="",CUATRO 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26153&t=live&f=ts
+#EXTINF:-1 tvg-name="TELECINCO 4K" tvg-logo="",TELECINCO 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26154&t=live&f=ts
+#EXTINF:-1 tvg-name="LA SEXTA 4K" tvg-logo="",LA SEXTA 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26155&t=live&f=ts
+#EXTINF:-1 tvg-name="M. SERIES 4K" tvg-logo="",M. SERIES 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26160&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DRAMA 4K" tvg-logo="",M. DRAMA 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26159&t=live&f=ts
+#EXTINF:-1 tvg-name="M.COMEDIA 4K" tvg-logo="",M.COMEDIA 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26158&t=live&f=ts
+#EXTINF:-1 tvg-name="M. ACCIÃ“N 4K" tvg-logo="",M. ACCIÃ“N 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26157&t=live&f=ts
+#EXTINF:-1 tvg-name="M.ESTRENOS 4K" tvg-logo="",M.ESTRENOS 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26156&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 See" tvg-logo="",24/7 See
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26165&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 The Mandalorian" tvg-logo="",24/7 The Mandalorian
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26166&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 Messiah" tvg-logo="",24/7 Messiah
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26161&t=live&f=ts
+#EXTINF:-1 tvg-name="24/7 The Witcher" tvg-logo="",24/7 The Witcher
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26162&t=live&f=ts
+#EXTINF:-1 tvg-name="M.ESTRENOS HD" tvg-logo="",M.ESTRENOS HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=364&t=live&f=ts
+#EXTINF:-1 tvg-name="M.ESTRENOS FULL HD" tvg-logo="",M.ESTRENOS FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3805&t=live&f=ts
+#EXTINF:-1 tvg-name="M. ACCION HD" tvg-logo="",M. ACCION HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=358&t=live&f=ts
+#EXTINF:-1 tvg-name="M. ACCIN FULL HD" tvg-logo="",M. ACCIN FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3799&t=live&f=ts
+#EXTINF:-1 tvg-name="M.COMEDIA HD" tvg-logo="",M.COMEDIA HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=363&t=live&f=ts
+#EXTINF:-1 tvg-name="M.COMEDIA FULL HD" tvg-logo="",M.COMEDIA FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3804&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DRAMA HD" tvg-logo="",M. DRAMA HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=360&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DRAMA FULL HD" tvg-logo="",M. DRAMA FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3801&t=live&f=ts
+#EXTINF:-1 tvg-name="M. Cine Espaol" tvg-logo="",M. Cine Espaol
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=426&t=live&f=ts
+#EXTINF:-1 tvg-name="M. Cine Espaol FULL HD" tvg-logo="",M. Cine Espaol FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3847&t=live&f=ts
+#EXTINF:-1 tvg-name="M.CineDoc&Roll HD" tvg-logo="",M.CineDoc&Roll HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=437&t=live&f=ts
+#EXTINF:-1 tvg-name="M.CineDoc&Roll FULL HD" tvg-logo="",M.CineDoc&Roll FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3850&t=live&f=ts
+#EXTINF:-1 tvg-name="M. SERIES HD" tvg-logo="",M. SERIES HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=362&t=live&f=ts
+#EXTINF:-1 tvg-name="M. SERIES FULL HD" tvg-logo="",M. SERIES FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3803&t=live&f=ts
+#EXTINF:-1 tvg-name="HOLLYWOOD HD" tvg-logo="",HOLLYWOOD HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=354&t=live&f=ts
+#EXTINF:-1 tvg-name="HOLLYWOOD FULL HD" tvg-logo="",HOLLYWOOD FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3796&t=live&f=ts
+#EXTINF:-1 tvg-name="Paramount Channel" tvg-logo="",Paramount Channel
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=454&t=live&f=ts
+#EXTINF:-1 tvg-name="Paramount FULL HD" tvg-logo="",Paramount FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3855&t=live&f=ts
+#EXTINF:-1 tvg-name="TCM HD" tvg-logo="",TCM HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=373&t=live&f=ts
+#EXTINF:-1 tvg-name="TCM FULL HD" tvg-logo="",TCM FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3813&t=live&f=ts
+#EXTINF:-1 tvg-name="TNT HD" tvg-logo="",TNT HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=375&t=live&f=ts
+#EXTINF:-1 tvg-name="TNT FULL HD" tvg-logo="",TNT FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3815&t=live&f=ts
+#EXTINF:-1 tvg-name="SUNDANCE TV" tvg-logo="",SUNDANCE TV
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=456&t=live&f=ts
+#EXTINF:-1 tvg-name="Sundance TV FULL HD" tvg-logo="",Sundance TV FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3856&t=live&f=ts
+#EXTINF:-1 tvg-name="#0 HD" tvg-logo="",#0 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=378&t=live&f=ts
+#EXTINF:-1 tvg-name="#0 FULL HD" tvg-logo="",#0 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3818&t=live&f=ts
+#EXTINF:-1 tvg-name="M.Seriesmania HD" tvg-logo="",M.Seriesmania HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=368&t=live&f=ts
+#EXTINF:-1 tvg-name="M.Seriesmania FULL HD" tvg-logo="",M.Seriesmania FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3809&t=live&f=ts
+#EXTINF:-1 tvg-name="FOX HD" tvg-logo="",FOX HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=353&t=live&f=ts
+#EXTINF:-1 tvg-name="FOX FULL HD" tvg-logo="",FOX FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3795&t=live&f=ts
+#EXTINF:-1 tvg-name="FOX LIFE HD" tvg-logo="",FOX LIFE HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=416&t=live&f=ts
+#EXTINF:-1 tvg-name="Fox Life FULL HD" tvg-logo="",Fox Life FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3842&t=live&f=ts
+#EXTINF:-1 tvg-name="AMC HD" tvg-logo="",AMC HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=347&t=live&f=ts
+#EXTINF:-1 tvg-name="AMC FULL HD" tvg-logo="",AMC FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3789&t=live&f=ts
+#EXTINF:-1 tvg-name="AXN HD" tvg-logo="",AXN HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=349&t=live&f=ts
+#EXTINF:-1 tvg-name="AXN FULL HD" tvg-logo="",AXN FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3791&t=live&f=ts
+#EXTINF:-1 tvg-name="AXN WHITE HD" tvg-logo="",AXN WHITE HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=382&t=live&f=ts
+#EXTINF:-1 tvg-name="AXN WHITE FULL HD" tvg-logo="",AXN WHITE FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3821&t=live&f=ts
+#EXTINF:-1 tvg-name="SYFY HD" tvg-logo="",SYFY HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=372&t=live&f=ts
+#EXTINF:-1 tvg-name="SYFY FULL HD" tvg-logo="",SYFY FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3812&t=live&f=ts
+#EXTINF:-1 tvg-name="CALLE 13 HD" tvg-logo="",CALLE 13 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=350&t=live&f=ts
+#EXTINF:-1 tvg-name="CALLE 13 FULL HD" tvg-logo="",CALLE 13 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3792&t=live&f=ts
+#EXTINF:-1 tvg-name="COMEDYCENTRAL HD" tvg-logo="",COMEDYCENTRAL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=405&t=live&f=ts
+#EXTINF:-1 tvg-name="Comedy Central FULL HD" tvg-logo="",Comedy Central FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3833&t=live&f=ts
+#EXTINF:-1 tvg-name="COSMO HD" tvg-logo="",COSMO HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=406&t=live&f=ts
+#EXTINF:-1 tvg-name="COSMO FULL HD" tvg-logo="",COSMO FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3834&t=live&f=ts
+#EXTINF:-1 tvg-name="TOROS HD" tvg-logo="",TOROS HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=376&t=live&f=ts
+#EXTINF:-1 tvg-name="TOROS FULL HD" tvg-logo="",TOROS FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3816&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga HD" tvg-logo="",M. LaLiga HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26046&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga FHD" tvg-logo="",M. LaLiga FHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26042&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga" tvg-logo="",M. LaLiga
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=435&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 2K" tvg-logo="",M. LaLiga 2K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26141&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 4K" tvg-logo="",M. LaLiga 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26142&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga FULL HD" tvg-logo="",M. LaLiga FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3849&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 1 HD" tvg-logo="",M. LaLiga 1 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26047&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 2 HD" tvg-logo="",M. LaLiga 2 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26048&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 1 FHD" tvg-logo="",M. LaLiga 1 FHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26043&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 2 FHD" tvg-logo="",M. LaLiga 2 FHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26045&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 3 FHD" tvg-logo="",M. LaLiga 3 FHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26044&t=live&f=ts
+#EXTINF:-1 tvg-name="LALIGATV BAR HD" tvg-logo="",LALIGATV BAR HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=357&t=live&f=ts
+#EXTINF:-1 tvg-name="Bein Laliga/ beIN Sport" tvg-logo="",Bein Laliga/ beIN Sport
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=386&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 1 FULL HD" tvg-logo="",M. LaLiga 1 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24929&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 2 (SOLO EVENTOS)" tvg-logo="",M. LaLiga 2 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=388&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 3 HD" tvg-logo="",M. LaLiga 3 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24927&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 4 (SOLO EVENTOS)" tvg-logo="",M. LaLiga 4 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=390&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 5 HD" tvg-logo="",M. LaLiga 5 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24926&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 6" tvg-logo="",M. LaLiga 6
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24925&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 7 (SOLO EVENTOS)" tvg-logo="",M. LaLiga 7 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=393&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 8 (SOLO EVENTOS)" tvg-logo="",M. LaLiga 8 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=394&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEONES HD" tvg-logo="",M.LCAMPEONES HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=445&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEONES FULL HD" tvg-logo="",M.LCAMPEONES FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26078&t=live&f=ts
+#EXTINF:-1 tvg-name="M.Lcampeones 4K" tvg-logo="",M.Lcampeones 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26140&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEONES HEVC" tvg-logo="",M.LCAMPEONES HEVC
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26067&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 1 HD (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 1 HD (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=438&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 1 FULL HD" tvg-logo="",M.LCAMPEON 1 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26079&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 1 4K" tvg-logo="",M.LCAMPEON 1 4K
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26175&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 2 HD (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 2 HD (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=439&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON2 FULL HD" tvg-logo="",M.LCAMPEON2 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26080&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 3 (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 3 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=440&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON3 FULL HD" tvg-logo="",M.LCAMPEON3 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26081&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 4 (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 4 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=441&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON4 FULL HD" tvg-logo="",M.LCAMPEON4 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26082&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 5 (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 5 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=442&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON5 FULL HD" tvg-logo="",M.LCAMPEON5 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26083&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 6 (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 6 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=443&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON6 FULL HD" tvg-logo="",M.LCAMPEON6 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26084&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON 7 (SOLO EVENTOS)" tvg-logo="",M.LCAMPEON 7 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=444&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON7 FULL HD" tvg-logo="",M.LCAMPEON7 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26085&t=live&f=ts
+#EXTINF:-1 tvg-name="M.LCAMPEON8 FULL HD" tvg-logo="",M.LCAMPEON8 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26086&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 9 HD" tvg-logo="",M. LaLiga 9 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24924&t=live&f=ts
+#EXTINF:-1 tvg-name="M. LaLiga 10" tvg-logo="",M. LaLiga 10
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24928&t=live&f=ts
+#EXTINF:-1 tvg-name="#VAMOS HD" tvg-logo="",#VAMOS HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=379&t=live&f=ts
+#EXTINF:-1 tvg-name="#VAMOS FULL HD" tvg-logo="",#VAMOS FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3819&t=live&f=ts
+#EXTINF:-1 tvg-name="#VAMOS BAR 1 (SOLO EVENTOS)" tvg-logo="",#VAMOS BAR 1 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=424&t=live&f=ts
+#EXTINF:-1 tvg-name="#VAMOS BAR2 (SOLO EVENTOS)" tvg-logo="",#VAMOS BAR2 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=436&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN 1 ESP" tvg-logo="",DAZN 1 ESP
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24923&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN 2 ESP" tvg-logo="",DAZN 2 ESP
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24922&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN 3 ESP" tvg-logo="",DAZN 3 ESP
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26163&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN 4 ESP" tvg-logo="",DAZN 4 ESP
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26164&t=live&f=ts
+#EXTINF:-1 tvg-name="DAZN 5 ESP" tvg-logo="",DAZN 5 ESP
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=26171&t=live&f=ts
+#EXTINF:-1 tvg-name="LALIGA TV BAR 1  (SOLO EVENTOS)" tvg-logo="",LALIGA TV BAR 1  (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=423&t=live&f=ts
+#EXTINF:-1 tvg-name="LALIGA TV BAR 2" tvg-logo="",LALIGA TV BAR 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24931&t=live&f=ts
+#EXTINF:-1 tvg-name="LALIGA TV BAR 3" tvg-logo="",LALIGA TV BAR 3
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=24930&t=live&f=ts
+#EXTINF:-1 tvg-name="LALIGA TV BAR 4  (SOLO EVENTOS)" tvg-logo="",LALIGA TV BAR 4  (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=422&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT 1 HD" tvg-logo="",EUROSPORT 1 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=352&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT1 FULL HD" tvg-logo="",EUROSPORT1 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3794&t=live&f=ts
+#EXTINF:-1 tvg-name="EUROSPORT 2" tvg-logo="",EUROSPORT 2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=414&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTESHD" tvg-logo="",M. DEPORTESHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=359&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES FULL HD" tvg-logo="",M. DEPORTES FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3800&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES1HD (SOLO EVENTOS)" tvg-logo="",M. DEPORTES1HD (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=427&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES2 (SOLO EVENTOS)" tvg-logo="",M. DEPORTES2 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=428&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES3 (SOLO EVENTOS)" tvg-logo="",M. DEPORTES3 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=429&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES4 (SOLO EVENTOS)" tvg-logo="",M. DEPORTES4 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=430&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES5 (SOLO EVENTOS)" tvg-logo="",M. DEPORTES5 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=431&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES6 (SOLO EVENTOS)" tvg-logo="",M. DEPORTES6 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=432&t=live&f=ts
+#EXTINF:-1 tvg-name="M. DEPORTES7 (SOLO EVENTOS)" tvg-logo="",M. DEPORTES7 (SOLO EVENTOS)
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=433&t=live&f=ts
+#EXTINF:-1 tvg-name="MULTIDEPORTE" tvg-logo="",MULTIDEPORTE
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=449&t=live&f=ts
+#EXTINF:-1 tvg-name="TELEDEPORTE" tvg-logo="",TELEDEPORTE
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=457&t=live&f=ts
+#EXTINF:-1 tvg-name="Teledeporte FULL HD" tvg-logo="",Teledeporte FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3857&t=live&f=ts
+#EXTINF:-1 tvg-name="Barca tv" tvg-logo="",Barca tv
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=384&t=live&f=ts
+#EXTINF:-1 tvg-name="Barca tv FULL HD" tvg-logo="",Barca tv FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3823&t=live&f=ts
+#EXTINF:-1 tvg-name="R. Madrid" tvg-logo="",R. Madrid
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=455&t=live&f=ts
+#EXTINF:-1 tvg-name="M.MOTOGPHD" tvg-logo="",M.MOTOGPHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=366&t=live&f=ts
+#EXTINF:-1 tvg-name="M.MOTOGP FULL HD" tvg-logo="",M.MOTOGP FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3807&t=live&f=ts
+#EXTINF:-1 tvg-name="M.FORMULA 1 HD" tvg-logo="",M.FORMULA 1 HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=365&t=live&f=ts
+#EXTINF:-1 tvg-name="M.FORMULA1 FULL HD" tvg-logo="",M.FORMULA1 FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3806&t=live&f=ts
+#EXTINF:-1 tvg-name="M. GOLF HD" tvg-logo="",M. GOLF HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=361&t=live&f=ts
+#EXTINF:-1 tvg-name="M. GOLF FULL HD" tvg-logo="",M. GOLF FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3802&t=live&f=ts
+#EXTINF:-1 tvg-name="Gol" tvg-logo="",Gol
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=418&t=live&f=ts
+#EXTINF:-1 tvg-name="GOL FULL HD" tvg-logo="",GOL FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3843&t=live&f=ts
+#EXTINF:-1 tvg-name="TRECE" tvg-logo="",TRECE
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25853&t=live&f=ts
+#EXTINF:-1 tvg-name="PTV MALAGA" tvg-logo="",PTV MALAGA
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25852&t=live&f=ts
+#EXTINF:-1 tvg-name="mega" tvg-logo="",mega
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25854&t=live&f=ts
+#EXTINF:-1 tvg-name="CanalSurHD" tvg-logo="",CanalSurHD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25851&t=live&f=ts
+#EXTINF:-1 tvg-name="CanalSur2" tvg-logo="",CanalSur2
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25850&t=live&f=ts
+#EXTINF:-1 tvg-name="CANAL TORREVISION" tvg-logo="",CANAL TORREVISION
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25849&t=live&f=ts
+#EXTINF:-1 tvg-name="BOM" tvg-logo="",BOM
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25848&t=live&f=ts
+#EXTINF:-1 tvg-name="AndaluciaTV" tvg-logo="",AndaluciaTV
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25847&t=live&f=ts
+#EXTINF:-1 tvg-name="7TV ANDALUCIA" tvg-logo="",7TV ANDALUCIA
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=25846&t=live&f=ts
+#EXTINF:-1 tvg-name="NAT GEO HD" tvg-logo="",NAT GEO HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=370&t=live&f=ts
+#EXTINF:-1 tvg-name="NAT GEO FULL HD" tvg-logo="",NAT GEO FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3810&t=live&f=ts
+#EXTINF:-1 tvg-name="NG WILD HD" tvg-logo="",NG WILD HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=371&t=live&f=ts
+#EXTINF:-1 tvg-name="NG WILD FULL HD" tvg-logo="",NG WILD FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3811&t=live&f=ts
+#EXTINF:-1 tvg-name="CAZAyPESCA HD" tvg-logo="",CAZAyPESCA HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=402&t=live&f=ts
+#EXTINF:-1 tvg-name="CAZAyPESCA FULL HD" tvg-logo="",CAZAyPESCA FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3831&t=live&f=ts
+#EXTINF:-1 tvg-name="DISCOVERY" tvg-logo="",DISCOVERY
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=408&t=live&f=ts
+#EXTINF:-1 tvg-name="Discovery FULL HD" tvg-logo="",Discovery FULL HD
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=3836&t=live&f=ts
+#EXTINF:-1 tvg-name="Crimen Invest" tvg-logo="",Crimen Invest
+http://iptviptviptv.com/live/sun.php?z=997&u=BGGjM4bDKS&s=8317627879&id=407&t=live&f=ts
