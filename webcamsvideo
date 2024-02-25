@@ -1,0 +1,124 @@
+#EXTM3U
+
+#EXTINF:0 ,Coruna Mobil
+https://www.crtvg.es:1554/hls/mcoruna/index.m3u8
+
+#EXTINF:0 ,Coruna Fixa
+https://www.crtvg.es:1554/hls/coruna/index.m3u8
+
+#EXTINF:0 ,A Guarda
+https://www.crtvg.es:1556/hls/aguarda/index.m3u8
+
+#EXTINF:0 ,A Rua
+https://www.crtvg.es:1555/hls/arua/index.m3u8
+
+#EXTINF:0 ,Baiona
+https://www.crtvg.es:1556/hls/baiona/index.m3u8
+
+#EXTINF:0 ,Manzaneda
+https://www.crtvg.es:1555/hls/manzaneda/index.m3u8
+
+#EXTINF:0 ,Celanova
+https://www.crtvg.es:1555/hls/celanova/index.m3u8
+
+#EXTINF:0 ,Ferrol
+https://www.crtvg.es:1554/hls/ferrol/index.m3u8
+
+#EXTINF:0 ,Lalin
+https://www.crtvg.es:1556/hls/lalin/index.m3u8
+
+#EXTINF:0 ,Lugo
+https://www.crtvg.es:1555/hls/lugo/index.m3u8
+
+#EXTINF:0 ,Pedroso
+https://www.crtvg.es:1554/hls/pedroso/index.m3u8
+
+#EXTINF:0 ,Muxia
+https://www.crtvg.es:1555/hls/muxia/index.m3u8
+
+#EXTINF:0 ,Cebreiro
+https://www.crtvg.es:1555/hls/cebreiro/index.m3u8
+
+#EXTINF:0 ,O Grove
+https://www.crtvg.es:1556/hls/ogrove/index.m3u8
+
+#EXTINF:0 ,Ourense Mobil
+https://www.crtvg.es:1555/hls/mourense/index.m3u8
+
+#EXTINF:0 ,Ourense Fixa
+https://www.crtvg.es:1555/hls/ourense/index.m3u8
+
+#EXTINF:0 ,Pontevedra
+https://www.crtvg.es:1556/hls/pontevedra/index.m3u8
+
+#EXTINF:0 ,Portomarin
+https://www.crtvg.es:1555/hls/portomarin/index.m3u8
+
+#EXTINF:0 ,Portonovo
+https://www.crtvg.es:1556/hls/portonovo/index.m3u8
+
+#EXTINF:0 ,Quintana
+https://www.crtvg.es:1554/hls/quintana/index.m3u8
+
+#EXTINF:0 ,Praterias
+https://www.crtvg.es:1554/hls/praterias/index.m3u8
+
+#EXTINF:0 ,Obradoiro
+https://www.crtvg.es:1554/hls/obradoiro/index.m3u8
+
+#EXTINF:0 ,Sanxenxo
+https://www.crtvg.es:1556/hls/sanxenxo/index.m3u8
+
+#EXTINF:0 ,Tui
+https://www.crtvg.es:1556/hls/tui/index.m3u8
+
+#EXTINF:0 ,Verin
+https://www.crtvg.es:1555/hls/verin/index.m3u8
+
+#EXTINF:0 ,Vigo
+https://www.crtvg.es:1556/hls/mvigo/index.m3u8
+
+#EXTINF:0 ,Fisterra Porto
+https://wow.camaramar.com/camaramar/24_finisterre.stream/playlist.m3u8
+
+#EXTINF:0 ,Corrubedo Balieiros
+https://wow.camaramar.com/camaramar/38_balieiros.stream/playlist.m3u8
+
+#EXTINF:0 ,Baldaio
+https://wow.camaramar.com/camaramar/49_baldaio.stream/playlist.m3u8
+
+#EXTINF:0 ,Valdovino Penencia
+https://wow.camaramar.com/camaramar/46_penencia.stream/playlist.m3u8
+
+#EXTINF:0 ,Carnota
+https://wow.camaramar.com/camaramar/33_carnota.stream/playlist.m3u8
+
+#EXTINF:0 ,Ezaro Praia
+https://wow.camaramar.com/camaramar/56_ezaro.stream/playlist.m3u8
+
+#EXTINF:0 ,Menduina
+https://wow.camaramar.com/camaramar/48_menduina.stream/playlist.m3u8
+
+#EXTINF:0 ,Cangas Rodeira
+https://wow.camaramar.com/camaramar/57_rodeira.stream/playlist.m3u8
+
+#EXTINF:0 ,Baiona Colambre
+https://wow.camaramar.com/camaramar/sub.stream/playlist.m3u8
+
+#EXTINF:0 ,Combarro A Seca
+https://wow.camaramar.com/camaramar/47_laseca.stream/playlist.m3u8
+
+#EXTINF:0 , Area Grande O Vicedo
+https://wow.camaramar.com/camaramar/22_sanroman.stream/playlist.m3u8
+
+#EXTINF:0 ,Illa Pancha
+https://wow.camaramar.com/camaramar/40_illapancha.stream/playlist.m3u8
+
+#EXTINF:0 ,Bastiagueiro
+https://wow.camaramar.com/camaramar/17_bastiagueiro.stream/playlist.m3u8
+
+#EXTINF:0 ,Porto do Son - Furnas
+https://wow.camaramar.com/camaramar/1_furnas.stream/playlist.m3u8
+
+#EXTINF:0 , A Lanzada
+https://wow.camaramar.com/camaramar/35_lanzadasur.stream/playlist.m3u8
